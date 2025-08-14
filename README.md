@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danjhonbueno
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning the basics of html
+- 🌱 I’m currently learning the basics of Web Development
 - 📫 How to reach me ...you can email or direct message me
 - ⚡ Fun fact: I'm a student-athlete who just developed a recent interest in programming.
 
